@@ -1,0 +1,30 @@
+Installation Method in Windows
+------------------------------
+
+1. Install Latest JDK 
+
+  >> https://www.oracle.com/in/java/technologies/downloads/#jdk19-windows
+  >> Download .exe file for Windows
+
+2. Download JBOSS EAP 7.4.0
+
+   >> https://developers.redhat.com/products/eap/download
+   >> Download - Installer Application Platform
+
+3. Go to downloaded folder - \jboss-eap-7.4\bin  
+   >> RUN Standalone.bat file
+
+4. Add user and password 
+   >> RUN add-user.bat file 
+   >> Give user name and password
+
+5. URL = http://localhost:8080 
+    
+
+
+
+
+--------------------
+Trouble Shooting 
+
+1. Add Environment Variables
